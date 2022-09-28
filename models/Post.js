@@ -13,7 +13,7 @@ const PostSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  zone: {
+  taste: {
     type: String,
     required: true,
   },
