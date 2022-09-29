@@ -43,7 +43,7 @@ module.exports = {
         commonName: req.body.commonName,
         sciName: req.body.sciName,
         origin: req.body.origin,
-        zone: req.body.zone,
+        taste: req.body.zone,
         type: req.body.type,
         image: result.secure_url,
         cloudinaryId: result.public_id,

@@ -9,7 +9,7 @@ This is a personal project dedicated to creating a database of fruits, common an
 
 **Tech used:** HTML, CSS, JavaScript, Node.js
 
-**Dependencies used:** bcrypt, cloudinary, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
+**Dependencies used:** bcrypt, cloudinary, connect-mongo, daisyui, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
 
 ## Optimizations
 
